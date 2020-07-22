@@ -1,7 +1,7 @@
 package com.akash.algorithms;
 
 import java.util.Arrays;
-
+/* Akash Kamble*/
 public class SelectionSort {
 
 	public static void main(String[] args) {
